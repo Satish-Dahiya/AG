@@ -1,0 +1,5 @@
+# Created at 2024-09-19T18:46:11.872
+Boot Manifest-JAR contains absolute paths in classpath 'D:\AG\AG-Workspace\Trinity\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
